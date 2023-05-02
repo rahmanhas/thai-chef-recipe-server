@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://example.com/chef1.jpg",
+    "chefName": "Alice",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 3,
+    "likes": 5000,
+    "bio": "Alice is a seasoned chef with over 10 years of experience in the culinary industry. Her passion for food and dedication to her craft is evident in her dishes, which have been enjoyed by thousands of diners around the world.",
+    "recipes": [
+      {
+        "id": "g0t8s7m2r9",
+        "recipeName": "Tom Yum Soup",
+        "ingredients": ["lemongrass", "galangal", "kaffir lime leaves", "chili peppers", "fish sauce", "lime juice", "mushrooms"],
+        "cookingMethod": "Boil all the ingredients in water and serve hot.",
+        "rating": 4.6
+      },
+      {
+        "id": "a1h2r3j4k5",
+        "recipeName": "Pad Thai",
+        "ingredients": ["rice noodles", "shrimp", "tofu", "bean sprouts", "scallions", "peanuts", "eggs"],
+        "cookingMethod": "Stir-fry the ingredients in a wok and serve with lime wedges.",
+        "rating": 4.2
+      },
+      {
+        "id": "p5q6z9l2y8",
+        "recipeName": "Green Curry",
+        "ingredients": ["coconut milk", "green curry paste", "chicken", "eggplant", "bamboo shoots", "basil leaves"],
+        "cookingMethod": "Simmer the chicken and vegetables in the curry sauce and serve over rice.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://example.com/chef2.jpg",
+    "chefName": "Bob",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 3,
+    "likes": 2000,
+    "bio": "Bob is a rising star in the culinary world with 5 years of experience under his belt. He brings a fresh and innovative approach to cooking that has won him a loyal following among food enthusiasts.",
+    "recipes": [
+      {
+        "id": "a1h2r3j4k5",
+        "recipeName": "Pad Thai",
+        "ingredients": ["rice noodles", "shrimp", "tofu", "bean sprouts", "scallions", "peanuts", "eggs"],
+        "cookingMethod": "Stir-fry the ingredients in a wok and serve with lime wedges.",
+        "rating": 4.2
+      },
+      {
+        "id": "p5q6z9l2y8",
+        "recipeName": "Green Curry",
+        "ingredients": ["coconut milk", "green curry paste", "chicken", "eggplant", "bamboo shoots", "basil leaves"],
+        "cookingMethod": "Simmer the chicken and vegetables in the curry sauce and serve over rice.",
+        "rating": 4.9
+      },
+      {
+        "id": "d4c8f9k1p5",
+        "recipeName": "Massaman Curry",
+        "ingredients": ["beef", "potatoes", "onions", "peanuts", "massaman curry paste", "coconut milk"],
+        "cookingMethod": "Slow-cook the beef and vegetables in the curry sauce and serve with naan bread.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://example.com/chef3.jpg",
+    "chefName": "Charlie",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 3,
+    "likes": 3000,
+    "bio": "Charlie is a versatile chef with 8 years of experience in various types of cuisine. His creativity and attention to detail are reflected in his dishes, which are both visually stunning and delicious.",
+    "recipes": [
+      {
+        "_id": "s9x2c1j8l5",
+        "recipeName": "Pad See Ew",
+        "ingredients": [
+          "w_ide rice noodles",
+          "chicken",
+          "broccoli",
+          "carrots",
+          "soy sauce",
+          "oyster sauce"
+        ]
+      },
+      {
+        "_id": "t4g9n6y2e8",
+        "recipeName": "Red Curry",
+        "ingredients": [
+          "coconut milk",
+          "red curry paste",
+          "chicken",
+          "bell peppers",
+          "bamboo shoots",
+          "basil leaves"
+        ]
+      },
+      {
+        "_id": "k7j2m9r3q6",
+        "recipeName": "Thai Iced Tea",
+        "ingredients": [
+          "black tea",
+          "condensed milk",
+          "sugar",
+          "spices",
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://example.com/chef4.jpg",
+    "chefName": "Dave",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 3,
+    "likes": 7000,
+    "bio": "Dave is a master chef with over a decade of experience in the culinary arts. He is known for his innovative techniques and unique flavor combinations that have earned him critical acclaim and a loyal following among food lovers.",
+    "recipes": [
+      {
+        "id": "d4c8f9k1p5",
+        "recipeName": "Massaman Curry",
+        "ingredients": ["beef", "potatoes", "onions", "peanuts", "massaman curry paste", "coconut milk"],
+        "cookingMethod": "Slow-cook the beef and vegetables in the curry sauce and serve with naan bread.",
+        "rating": 4.3
+      },
+      {
+        "id": "b2v8n7c3q9",
+        "recipeName": "Som Tum (Green Papaya Salad)",
+        "ingredients": ["green papaya", "carrots", "tomatoes", "long beans", "garlic", "peanuts", "fish sauce"],
+        "cookingMethod": "Shred the papaya and mix with the other ingredients to make a salad.",
+        "rating": 4.8
+      },
+      {
+        "id": "j6m9p4f1t2",
+        "recipeName": "Thai Basil Chicken",
+        "ingredients": ["chicken", "garlic", "chilies", "fish sauce", "oyster sauce", "basil leaves"],
+        "cookingMethod": "Stir-fry the chicken with the garlic, chilies, and sauces, then add the basil leaves and serve over rice.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://example.com/chef5.jpg",
+    "chefName": "Eve",
+    "yearsOfExperience": 3,
+    "numberOfRecipes": 3,
+    "likes": 1000,
+    "bio": "Eve is a passionate chef with a keen eye for detail. She has a knack for combining bold flavors and textures to create dishes that are both surprising and satisfying.",
+    "recipes": [
+      {
+        "id": "b2v8n7c3q9",
+        "recipeName": "Som Tum (Green Papaya Salad)",
+        "ingredients": ["green papaya", "carrots", "tomatoes", "long beans", "garlic", "peanuts", "fish sauce"],
+        "cookingMethod": "Shred the papaya and mix with the other ingredients to make a salad.",
+        "rating": 4.8
+      },
+      {
+        "id": "j6m9p4f1t2",
+        "recipeName": "Thai Basil Chicken",
+        "ingredients": ["chicken", "garlic", "chilies", "fish sauce", "oyster sauce", "basil leaves"],
+        "cookingMethod": "Stir-fry the chicken with the garlic, chilies, and sauces, then add the basil leaves and serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "id": "s9x2c1j8l5",
+        "recipeName": "Pad See Ew",
+        "ingredients": ["wide rice noodles", "chicken", "broccoli", "carrots", "soy sauce", "oyster sauce"],
+        "cookingMethod": "Stir-fry the noodles and vegetables with the sauces and serve hot.",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://example.com/chef6.jpg",
+    "chefName": "Frank",
+    "yearsOfExperience": 6,
+    "numberOfRecipes": 3,
+    "likes": 4000,
+    "bio": "Frank is a skilled chef with a deep understanding of the culinary arts. His dishes are a testament to his expertise and passion for cooking, and his innovative techniques have earned him a reputation as one of the most exciting chefs in the industry.",
+    "recipes": [
+      {
+        "id": "g0t8s7m2r9",
+        "recipeName": "Tom Yum Soup",
+        "ingredients": ["lemongrass", "galangal", "kaffir lime leaves", "chili peppers", "fish sauce", "lime juice", "mushrooms"],
+        "cookingMethod": "Boil all the ingredients in water and serve hot.",
+        "rating": 4.6
+      },
+      {
+        "id": "a1h2r3j4k5",
+        "recipeName": "Pad Thai",
+        "ingredients": ["rice noodles", "shrimp", "tofu", "bean sprouts", "scallions", "peanuts", "eggs"],
+        "cookingMethod": "Stir-fry the ingredients in a wok and serve with lime wedges.",
+        "rating": 4.2
+      },
+      {
+        "id": "p5q6z9l2y8",
+        "recipeName": "Green Curry",
+        "ingredients": ["coconut milk", "green curry paste", "chicken", "eggplant", "bamboo shoots", "basil leaves"],
+        "cookingMethod": "Simmer the chicken and vegetables in the curry sauce and serve over rice.",
+        "rating": 4.9
+      },
+      {
+        "id": "d4c8f9k1p5",
+        "recipeName": "Massaman Curry",
+        "ingredients": ["beef", "potatoes", "onions", "peanuts", "massaman curry paste", "coconut milk"],
+        "cookingMethod": "Slow-cook the beef and vegetables in the curry sauce and serve with naan bread.",
+        "rating": 4.3
+      },
+      {
+        "id": "b2v8n7c3q9",
+        "recipeName": "Som Tum (Green Papaya Salad)",
+        "ingredients": ["green papaya", "carrots", "tomatoes", "long beans", "garlic", "peanuts", "fish sauce"],
+        "cookingMethod": "Shred the papaya and mix with the other ingredients to make a salad.",
+        "rating": 4.8
+      }
+    ]
+  }
+]

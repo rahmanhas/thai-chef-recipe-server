@@ -1,0 +1,54 @@
+[
+  {
+    "id": "g0t8s7m2r9",
+    "recipeName": "Tom Yum Soup",
+    "ingredients": ["lemongrass", "galangal", "kaffir lime leaves", "chili peppers", "fish sauce", "lime juice", "mushrooms"],
+    "cookingMethod": "Boil all the ingredients in water and serve hot.",
+    "rating": 4.6
+  },
+  {
+    "id": "a1h2r3j4k5",
+    "recipeName": "Pad Thai",
+    "ingredients": ["rice noodles", "shrimp", "tofu", "bean sprouts", "scallions", "peanuts", "eggs"],
+    "cookingMethod": "Stir-fry the ingredients in a wok and serve with lime wedges.",
+    "rating": 4.2
+  },
+  {
+    "id": "p5q6z9l2y8",
+    "recipeName": "Green Curry",
+    "ingredients": ["coconut milk", "green curry paste", "chicken", "eggplant", "bamboo shoots", "basil leaves"],
+    "cookingMethod": "Simmer the chicken and vegetables in the curry sauce and serve over rice.",
+    "rating": 4.9
+  },
+  {
+    "id": "d4c8f9k1p5",
+    "recipeName": "Massaman Curry",
+    "ingredients": ["beef", "potatoes", "onions", "peanuts", "massaman curry paste", "coconut milk"],
+    "cookingMethod": "Slow-cook the beef and vegetables in the curry sauce and serve with naan bread.",
+    "rating": 4.3
+  },
+  {
+    "id": "b2v8n7c3q9",
+    "recipeName": "Som Tum (Green Papaya Salad)",
+    "ingredients": ["green papaya", "carrots", "tomatoes", "long beans", "garlic", "peanuts", "fish sauce"],
+    "cookingMethod": "Shred the papaya and mix with the other ingredients to make a salad.",
+    "rating": 4.8
+  },
+  {
+    "id": "j6m9p4f1t2",
+    "recipeName": "Thai Basil Chicken",
+    "ingredients": ["chicken", "garlic", "chilies", "fish sauce", "oyster sauce", "basil leaves"],
+    "cookingMethod": "Stir-fry the chicken with the garlic, chilies, and sauces, then add the basil leaves and serve over rice.",
+    "rating": 4.5
+  },
+  {
+    "id": "s9x2c1j8l5",
+    "recipeName": "Pad See Ew",
+    "ingredients": ["wide rice noodles", "chicken", "broccoli", "carrots", "soy sauce", "oyster sauce"],
+    "cookingMethod": "Stir-fry the noodles and vegetables with the sauces and serve hot.",
+    "rating": 4.1
+  },
+  {
+    "id": "t4g9n6y2e8",
+    "recipeName": "Red Curry",
+    "ingredients": ["coconut milk", "red curry paste", "chicken
