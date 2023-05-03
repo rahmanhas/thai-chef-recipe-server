@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://www.freepik.com/free-photo/young-pleased-caucasian-cook-girl-chef-uniform-crosses-arms-isolated-orange-wall-with-copy-space_11063537.htm#page=2&query=chef&position=23&from_view=search&track=sph",
+    "chefPicture": "https://img.freepik.com/free-photo/female-chef-tenderizing-meat-with-utensil_23-2148491291.jpg?w=360&t=st=1683092420~exp=1683093020~hmac=a907c69f9db70f8eabad389e58beb692126be47797bdd234646457957cad2c0b",
     "chefName": "Alice",
     "yearsOfExperience": 10,
     "numberOfRecipes": 3,
@@ -33,7 +33,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "https://www.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_13826894.htm#query=chef&position=13&from_view=search&track=sph",
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1683092307~exp=1683092907~hmac=83839cb02b9a91a8c2978b82d543a2bff42a070abbcbb8ab4847d7ac98f373bb",
     "chefName": "Bob",
     "yearsOfExperience": 5,
     "numberOfRecipes": 3,
