@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://example.com/chef1.jpg",
+    "chefPicture": "https://www.freepik.com/free-photo/young-pleased-caucasian-cook-girl-chef-uniform-crosses-arms-isolated-orange-wall-with-copy-space_11063537.htm#page=2&query=chef&position=23&from_view=search&track=sph",
     "chefName": "Alice",
     "yearsOfExperience": 10,
     "numberOfRecipes": 3,
@@ -33,7 +33,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "https://example.com/chef2.jpg",
+    "chefPicture": "https://www.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_13826894.htm#query=chef&position=13&from_view=search&track=sph",
     "chefName": "Bob",
     "yearsOfExperience": 5,
     "numberOfRecipes": 3,
@@ -65,7 +65,7 @@
   },
   {
     "id": 3,
-    "chefPicture": "https://example.com/chef3.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=996&t=st=1683055550~exp=1683056150~hmac=18d11626ab06cea6c5053286c2286d5a44f430363d19af0fd150c86b4c56f619",
     "chefName": "Charlie",
     "yearsOfExperience": 8,
     "numberOfRecipes": 3,
@@ -111,7 +111,7 @@
   },
   {
     "id": 4,
-    "chefPicture": "https://example.com/chef4.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683055581~exp=1683056181~hmac=32827702d24ea684ec6fe52f2b2071b7993050dd507252050a675d65936b739c",
     "chefName": "Dave",
     "yearsOfExperience": 12,
     "numberOfRecipes": 3,
@@ -143,7 +143,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "https://example.com/chef5.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-posing-smiling-light-white-wall_140725-59291.jpg?w=996&t=st=1683055681~exp=1683056281~hmac=de6fd1a2343aa64fa4835263ed2e9d1c9912fc65b4e2ff76087b3f542979e25e",
     "chefName": "Eve",
     "yearsOfExperience": 3,
     "numberOfRecipes": 3,
@@ -175,7 +175,7 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://example.com/chef6.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/front-view-young-male-cook-white-cook-suit-white-head-cap-fixing-his-cloth_140725-15475.jpg?w=996&t=st=1683055641~exp=1683056241~hmac=c91e3c0b99c5bc537c50e121c7cb33e62ff8eace4636acff06b86d13d249c0a9",
     "chefName": "Frank",
     "yearsOfExperience": 6,
     "numberOfRecipes": 3,
