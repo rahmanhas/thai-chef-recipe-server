@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chefPicture": "https://st.depositphotos.com/1017986/54947/i/1600/depositphotos_549475476-stock-photo-happy-smiling-female-chef-with.jpg",
-    "chefName": "Alice",
+    "chefName": "Jarunee",
     "yearsOfExperience": 10,
     "numberOfRecipes": 3,
     "likes": 5000,
@@ -34,7 +34,7 @@
   {
     "id": 2,
     "chefPicture": "https://st.depositphotos.com/1686706/4929/i/950/depositphotos_49297795-stock-photo-young-cook.jpg",
-    "chefName": "Bob",
+    "chefName": "Weera",
     "yearsOfExperience": 5,
     "numberOfRecipes": 3,
     "likes": 2000,
@@ -66,8 +66,8 @@
   {
     "id": 3,
     "chefPicture": "https://st3.depositphotos.com/4290619/14732/i/1600/depositphotos_147323921-stock-photo-asian-chef-showing-thumbs-white.jpg",
-    "chefName": "Charlie",
-    "yearsOfExperience": 8,
+    "chefName": "Nuttapong",
+    "yearsOfExperience": 6,
     "numberOfRecipes": 3,
     "likes": 3000,
     "bio": "Charlie is a versatile chef with 8 years of experience in various types of cuisine. His creativity and attention to detail are reflected in his dishes, which are both visually stunning and delicious.",
@@ -112,7 +112,7 @@
   {
     "id": 4,
     "chefPicture": "https://st2.depositphotos.com/29158456/46455/i/1600/depositphotos_464555940-stock-photo-image-asian-male-chef-yellow.jpg",
-    "chefName": "Dave",
+    "chefName": "Teerasak",
     "yearsOfExperience": 12,
     "numberOfRecipes": 3,
     "likes": 7000,
@@ -144,8 +144,8 @@
   {
     "id": 5,
     "chefPicture": "https://st.depositphotos.com/1017986/54947/i/1600/depositphotos_549475476-stock-photo-happy-smiling-female-chef-with.jpg",
-    "chefName": "Eve",
-    "yearsOfExperience": 3,
+    "chefName": "Prapaporn",
+    "yearsOfExperience": 5,
     "numberOfRecipes": 3,
     "likes": 1000,
     "bio": "Eve is a passionate chef with a keen eye for detail. She has a knack for combining bold flavors and textures to create dishes that are both surprising and satisfying.",
@@ -175,9 +175,9 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://st3.depositphotos.com/1701651/32246/i/1600/depositphotos_322465224-stock-photo-happy-proud-asian-chef-smiling.jpg",
-    "chefName": "Frank",
-    "yearsOfExperience": 6,
+    "chefPicture": "https://st3.depositphotos.com/3433891/33025/i/1600/depositphotos_330252190-stock-photo-young-japanese-chef-woman-cooking.jpg",
+    "chefName": "Kittisak",
+    "yearsOfExperience": 10,
     "numberOfRecipes": 3,
     "likes": 4000,
     "bio": "Frank is a skilled chef with a deep understanding of the culinary arts. His dishes are a testament to his expertise and passion for cooking, and his innovative techniques have earned him a reputation as one of the most exciting chefs in the industry.",
