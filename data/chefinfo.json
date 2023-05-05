@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://img.freepik.com/free-photo/female-chef-tenderizing-meat-with-utensil_23-2148491291.jpg?w=360&t=st=1683092420~exp=1683093020~hmac=a907c69f9db70f8eabad389e58beb692126be47797bdd234646457957cad2c0b",
+    "chefPicture": "https://depositphotos.com/549475476/stock-photo-happy-smiling-female-chef-with.html",
     "chefName": "Alice",
     "yearsOfExperience": 10,
     "numberOfRecipes": 3,
@@ -33,7 +33,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1683092307~exp=1683092907~hmac=83839cb02b9a91a8c2978b82d543a2bff42a070abbcbb8ab4847d7ac98f373bb",
+    "chefPicture": "https://st.depositphotos.com/1686706/4929/i/950/depositphotos_49297795-stock-photo-young-cook.jpg",
     "chefName": "Bob",
     "yearsOfExperience": 5,
     "numberOfRecipes": 3,
@@ -65,7 +65,7 @@
   },
   {
     "id": 3,
-    "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=996&t=st=1683055550~exp=1683056150~hmac=18d11626ab06cea6c5053286c2286d5a44f430363d19af0fd150c86b4c56f619",
+    "chefPicture": "https://st3.depositphotos.com/4290619/14732/i/1600/depositphotos_147323921-stock-photo-asian-chef-showing-thumbs-white.jpg",
     "chefName": "Charlie",
     "yearsOfExperience": 8,
     "numberOfRecipes": 3,
@@ -111,7 +111,7 @@
   },
   {
     "id": 4,
-    "chefPicture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683055581~exp=1683056181~hmac=32827702d24ea684ec6fe52f2b2071b7993050dd507252050a675d65936b739c",
+    "chefPicture": "https://st2.depositphotos.com/29158456/46455/i/1600/depositphotos_464555940-stock-photo-image-asian-male-chef-yellow.jpg",
     "chefName": "Dave",
     "yearsOfExperience": 12,
     "numberOfRecipes": 3,
@@ -143,7 +143,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-posing-smiling-light-white-wall_140725-59291.jpg?w=996&t=st=1683055681~exp=1683056281~hmac=de6fd1a2343aa64fa4835263ed2e9d1c9912fc65b4e2ff76087b3f542979e25e",
+    "chefPicture": "https://st.depositphotos.com/1017986/54947/i/1600/depositphotos_549475476-stock-photo-happy-smiling-female-chef-with.jpg",
     "chefName": "Eve",
     "yearsOfExperience": 3,
     "numberOfRecipes": 3,
@@ -175,7 +175,7 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://img.freepik.com/free-photo/front-view-young-male-cook-white-cook-suit-white-head-cap-fixing-his-cloth_140725-15475.jpg?w=996&t=st=1683055641~exp=1683056241~hmac=c91e3c0b99c5bc537c50e121c7cb33e62ff8eace4636acff06b86d13d249c0a9",
+    "chefPicture": "https://st3.depositphotos.com/1701651/32246/i/1600/depositphotos_322465224-stock-photo-happy-proud-asian-chef-smiling.jpg",
     "chefName": "Frank",
     "yearsOfExperience": 6,
     "numberOfRecipes": 3,
